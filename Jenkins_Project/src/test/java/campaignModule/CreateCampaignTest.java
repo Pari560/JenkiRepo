@@ -15,5 +15,7 @@ public class CreateCampaignTest {
 		String PASSWORD=System.getProperty("password");
 		Reporter.log(PASSWORD,true);
 		Reporter.log("Created Organization successfully");
+		Reporter.log("Created Organization successfully");
+		
 	}
 }
